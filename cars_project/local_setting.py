@@ -11,6 +11,6 @@ DATABASES = {
         'NAME': 'cars_database',
         'HOST': 'localhost',
         'USER': 'root',
-        'PASSWORD': 'M@ximu$70'
+        'PASSWORD': 'M@ximu$70',
     }
 }
